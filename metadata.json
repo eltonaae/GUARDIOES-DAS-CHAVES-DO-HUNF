@@ -1,0 +1,6 @@
+{
+  "name": "Guardiões das Chaves",
+  "description": "Aplicativo operacional para o Hospital Unimed Nova Friburgo - Registro de sinalizações de oportunidades e ocorrências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
