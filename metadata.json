@@ -1,6 +1,6 @@
 {
-  "name": "Guardiões das Chaves",
-  "description": "Aplicativo operacional para o Hospital Unimed Nova Friburgo - Registro de sinalizações de oportunidades e ocorrências.",
-  "requestFramePermissions": [],
+  "name": "Guardiões das Chaves - HUNF",
+  "description": "Aplicativo institucional multiusuário com controle de acesso, perfis (Guardião e Gestor), gravação por voz e diretrizes de privacidade para o Hospital Unimed Nova Friburgo.",
+  "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
